@@ -5,6 +5,7 @@ public class Test1 {
 		// TODO Auto-generated method stub
 		System.out.println("1¹øÂ° Ä¿¹Ô");
 		System.out.println("2¹øÂ° Ä¿¹Ô");
+		System.out.println("3¹øÂ° Ä¿¹Ô");
 	}
 
 }
